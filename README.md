@@ -2,9 +2,7 @@
 
 **`Desenvolvedor`**
 
-Desenvolvedor em início de carreira, buscando uma oportunidade para aplicar e aprimorar minhas habilidades
-em desenvolvimento web e back-end. Tenho experiência acadêmica e projetos práticos que envolvem criação de
-APIs, integração de bancos de dados e desenvolvimento de interfaces interativas. 
+Desenvolvedor Back-End, em busca de uma oportunidade para aplicar e expandir meus conhecimentos na área. Tenho experiência com projetos acadêmicos e práticos, onde desenvolvi APIs RESTful, integrei bancos de dados relacionais e NoSQL, e trabalhei com versionamento de código.  
 
 
 ### Tecnologias 🔧
