@@ -125,8 +125,8 @@ align="left"
 
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielPraata&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPraata&theme=dark&layout=compact&custom_title=Tecnologias"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielPraata&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPraata&theme=dark&layout=compact"/>
 </div>
 
 
