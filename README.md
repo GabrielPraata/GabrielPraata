@@ -10,21 +10,70 @@ Desenvolvedor Back-End, em busca de uma oportunidade para aplicar e expandir meu
 
 
 <img 
-    align="left"
-    alt="HTML"
-    title="HTML"
+align="left"
+    alt="Java"
+    title="Java"
     width="30px"
     style="paddig-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+   />
+
+   
+  <img 
+  align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="paddig-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+  />
+
+
+<img 
+    align="left"
+    alt="DOCKER"
+    title="DOCKER"
+    width="30px"
+    style="paddig-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 
 <img 
   align="left"
-    alt="CSS"
-    title="CSS"
+    alt="MONGO DB"
+    title="MONGO DB"
     width="30px"
     style="paddig-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+  align="left"
+    alt="POSTGRESQL"
+    title="POSTGRESQL"
+    width="30px"
+    style="paddig-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+/>
+
+
+<img 
+  align="left"
+    alt="AZURE"
+    title="AZURE"
+    width="30px"
+    style="paddig-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+
+
+<img 
+  align="left"
+    alt="AMAZONAWS"
+    title="AMAZONAWS"
+    width="30px"
+    style="paddig-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
 
@@ -76,26 +125,6 @@ Desenvolvedor Back-End, em busca de uma oportunidade para aplicar e expandir meu
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
   />
           
-          
-<img 
-align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="paddig-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-   />
-
-   
-  <img 
-  align="left"
-    alt="Spring"
-    title="Spring"
-    width="30px"
-    style="paddig-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-  />
-
   
   <img 
   align="left"
