@@ -2,7 +2,8 @@
 
 **`Desenvolvedor`**
 
-Desenvolvedor Back-End, em busca de uma oportunidade para aplicar e expandir meus conhecimentos na área. Tenho experiência com projetos acadêmicos e práticos, onde desenvolvi APIs RESTful, integrei bancos de dados relacionais e NoSQL, e trabalhei com versionamento de código.  
+Desenvolvedor Back-End com conhecimentos em APIs RESTful, integração de banco de dados relacionais NoSQL, versionamento de código e planejamento de demandas.
+
 
 
 ### Tecnologias 🔧
