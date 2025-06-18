@@ -2,7 +2,9 @@
 
 **`Desenvolvedor`**
 
-Desenvolvedor Back-End com conhecimentos em APIs RESTful, integração de banco de dados relacionais NoSQL, versionamento de código e planejamento de demandas.
+Desenvolvedor Back-End com experiência em desenvolvimento de aplicações Java utilizando Spring Boot, JPA/Hibernate, e APIs RESTful. Atuação com bancos de dados PostgreSQL e SQL, versionamento de código com Git, e práticas de Clean Code e SOLID.
+Tenho familiaridade com Docker, AWS, e integração de microsserviços, além de conhecimentos em metodologias ágeis (Scrum, Kanban) e DevOps (CI/CD com Jenkins, GitFlow).
+Busco sempre desenvolver soluções escaláveis, eficientes e alinhadas às melhores práticas de mercado, com foco na qualidade do código e no trabalho colaborativo.
 
 
 
